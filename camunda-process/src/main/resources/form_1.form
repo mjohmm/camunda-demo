@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "type": "image",
+      "layout": {
+        "row": "Row_0dhv5pd",
+        "columns": null
+      },
+      "id": "Field_0vt2pm7",
+      "source": "./fincon-reply-logo-150dpi.jpg"
+    },
+    {
+      "label": "Order Coffee?",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_0dhv5pd",
+        "columns": null
+      },
+      "id": "Field_1eftn2y",
+      "key": "checkbox_831lboe"
+    }
+  ],
+  "type": "default",
+  "id": "Form_09ont9c",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.31.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.22.0",
+  "schemaVersion": 18
+}
